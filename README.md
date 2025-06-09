@@ -1,4 +1,4 @@
-# Algorithms In Python
+# Algorithms In Python 
 
 This repository contains simple implementations of common algorithms using Python.  
 Each example demonstrates how the algorithm works with basic, easy to understand code.
